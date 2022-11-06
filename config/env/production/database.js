@@ -1,5 +1,3 @@
-// path: ./config/env/production/database.js
-
 module.exports = ({ env }) => ({
   connection: {
     client: "postgres",
